@@ -6,3 +6,6 @@ world_the_end/
 cache/
 logs/
 eula.txt
+.console_history
+ops.json
+usercache.json
