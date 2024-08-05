@@ -1,5 +1,8 @@
 start.bat
 start.sh
 world/
-world-nether/
-world-end/
+world_nether/
+world_the_end/
+cache/
+logs/
+eula.txt
