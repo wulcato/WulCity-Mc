@@ -33,11 +33,11 @@ worlds:
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      x: 0.0
-      y: 66.0
-      z: 0.0
-      pitch: 0.0
-      yaw: 0.0
+      x: -71.53983876036018
+      y: 75.0
+      z: 37.07673577185038
+      pitch: 21.899971
+      yaw: -89.69998
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
