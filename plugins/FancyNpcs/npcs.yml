@@ -1,0 +1,30 @@
+npcs:
+  5dd98d22-d3a1-408a-8283-d93b42e15601:
+    name: player
+    creator: 261ea18c-a165-3520-a998-4598096b64ca
+    displayName: Survival
+    type: PLAYER
+    location:
+      world: lobivoid
+      x: -75.38665216104465
+      y: 75.0
+      z: -6.29827378375364
+      yaw: -39.750458
+      pitch: -4.6500106
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands: []
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: bceb671f-9d1b-4fb2-b0c6-02608192cb02
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcyMzAxNzQ2OTI5NCwKICAicHJvZmlsZUlkIiA6ICJiY2ViNjcxZjlkMWI0ZmIyYjBjNjAyNjA4MTkyY2IwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXdWxjYXRvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc0NDNiOTYyMDJlMDU3MGU4OWY1Mzc2OGNiOTQyMWEzNzE2MTAyNTIwYmNhNTk0N2M2OTBkNzZlZWI0ZDI2ODciCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9
+      signature: LPlE3Z9Dix6p1CdeGAHxOb1YZ6x06ssm8ye84O7Qz3kpocpKrw5FBGTR+iI/NXfUBpIAqVH1cyeG63JZqW2v+1bTtTgHShEKx1aFi39bkmQzZ6gbolfImXdTU4eAcO+PP52o5oAQbWlDF1p5lZx90/+HXJBwEOoahPjUahkzmPZqQqaPCO+kz9aAplqG5CMFFlGJMU1FA2dLFsB7PHmotJkdTldUmk+3EWwhwsz/hgXVoBjpdXGdpaZsOj4zZH1Mc4ZwDzFdj4U74FuPf7F445C7rCP7VVRv9nTej4k0gbsfhMSUi+FanUwrQK7f6YcmVLwQTNMi0WFfQkYqXjmXsW2WqrfGF75Qtws2duIWqHQIpnyjqAp1rk6Athb3jzcI9HGOBc6vEkKMyLGM3ETF8pSEVxfw7erup9zIfiCOTaOPPaTZJlyeNXWSgU8lHxVSkDeeRqbvYjFopN80SoyFIR6Y/1DFsex741JjK4q+MF1Yfps5eIq+lzxjn6wuvkhhis+biRhExFV39hRrhjqmKPKcayx1FUWBnggk3e5z6GiLiFK1HfYDgcLIG1RwJBLE6Ay03dkQ2rtD9R30r7neMXjZSK2quDuP4jYz7mDl40ttAtZA81EC8rIKPI2fXWu7NZvIYLg21jmr+XIJUhoBdwWOOFG08FtoIOJgLb1YkEg=
