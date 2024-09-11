@@ -1,0 +1,5 @@
+apt-get update &&
+apt-get upgrade -y &&
+apt-get install neofetch openjdk-21-jre zip unzip git wget nano mariadb mariadb-server -y &&
+apt-get update && apt-get upgrade -y &&
+sudo su -c "wget -qO- https://script.mcsmanager.com/setup.sh | bash" && reboot

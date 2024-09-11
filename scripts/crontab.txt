@@ -1,0 +1,2 @@
+30 06 * * * sh /home/wulcato/wulcity/scripts/proxy-backup.sh
+30 06 * * * sh /home/wulcato/wulcity/scripts/hub-backup.sh
