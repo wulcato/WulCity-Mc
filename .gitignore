@@ -1,2 +1,4 @@
 backup/Hub/*
 backup/Proxy/*
+Proxy/velocity.toml
+Proxy/forwarding.secret
