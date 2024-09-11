@@ -1,1 +1,0 @@
-Merhaba, burası WulCity-Mc'nin public reposu.
